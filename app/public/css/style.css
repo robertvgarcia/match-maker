@@ -1,0 +1,10 @@
+main {
+    background-color: #000;
+    border: 1px solid #fff5;
+}
+
+section {
+    background-image: url('../matchPhotos/darkwood1.png');  
+    border-radius: 10px;  
+}
+
